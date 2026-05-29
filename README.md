@@ -69,13 +69,27 @@ cd "C:\Users\AISW_203_112\Downloads\5.28 김찬수교수님 리스트,집합,스
 ---
 
 ### 📺 과제 실행 화면 (Screenshots)
-📸 01. 리스트 클래스 결과
+#### 📸 01. 리스트 클래스 결과
 <img width="504" height="184" alt="01_List_Class" src="https://github.com/user-attachments/assets/a255b811-a928-4280-9c1a-3c289bfc2e06" />
 
-📸 02. 라인 편집기 결과
-📸 03. 집합 클래스 결과
-📸 04. 스택 클래스 결과
-📸 05. 후위 표기법 계산기 결과
-![계산기 결과](./05_수식 계산기/05_Postfix.png)
+---
+#### 📸 02. 라인 편집기 결과
+<img width="674" height="631" alt="02_LineEditor" src="https://github.com/user-attachments/assets/007c3cda-e963-433f-8945-424cd8cea42e" />
 
-📸 06. 미로 탐색 (DFS) 애니메이션 과정 및 최종 성공 화면
+---
+#### 📸 03. 집합 클래스 결과
+<img width="418" height="270" alt="03_Set_Class" src="https://github.com/user-attachments/assets/1ba61629-a15a-4553-8216-fdecdb61beed" />
+
+---
+#### 📸 04. 스택 클래스 결과
+<img width="446" height="268" alt="04_Stack_Class" src="https://github.com/user-attachments/assets/2fd94bdf-4420-4f76-a53b-93152b29165b" />
+
+---
+#### 📸 05. 후위 표기법 계산기 결과
+<img width="425" height="588" alt="05_Postfix" src="https://github.com/user-attachments/assets/423344aa-0e9e-486c-9bb0-3dbd12d154b6" />
+
+---
+#### 📸 06. 미로 탐색 (DFS) 애니메이션 과정 및 최종 성공 화면
+<img width="445" height="645" alt="06_DFS(1)" src="https://github.com/user-attachments/assets/e6960593-17bf-4de6-9d8f-034f7dbdcb33" />
+<img width="442" height="645" alt="06_DFS(2)" src="https://github.com/user-attachments/assets/c00cb23e-2973-4dc6-93cb-7df3f0734e63" />
+
