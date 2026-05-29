@@ -3,7 +3,7 @@
 ---
 
 ## 🛠️ 개발 환경 및 사용 도구
-* **언어 (Language):** Python 3.11
+* **언어 (Language):** Python 3.12.12
 * **가상환경 (Environment):** Anaconda (Env Name: `cv`)
 * **IDE:** Visual Studio Code (통합 CMD 터미널)
 * **GUI 라이브러리:** Tkinter (순정 그래픽 드라이버 엔진)
